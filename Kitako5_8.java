@@ -1,3 +1,4 @@
+//整数を 10 回入力し、小さい順に並べ替えて表示するプログラムを作成しなさい。
 import java.util.*;
 public class Kitako5_8{
 	public static void main(String[] args){

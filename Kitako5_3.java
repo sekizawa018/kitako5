@@ -1,3 +1,7 @@
+//次のプログラムを作成しなさい。
+//
+//10 個の数値を入力する。
+//入力された数値を偶数と奇数に分類して表示する。
 import java.util.*;
 public class Kitako5_3{
 	public static void main(String[] args){
